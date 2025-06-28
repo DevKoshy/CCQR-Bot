@@ -1,14 +1,14 @@
 {
   "token": "",
   "owners": [
-    "",
-    ""
+    "502116522043506700",
+    "951541504235671552"
   ],
   "prefix": "+",
-  "color": "#6495ed",
+  "color": "#620096",
 
   "titre": "Support",
-  "description": "Pour contacter le staff, appuie sur le bouton je sais pas",
+  "description": "Pour contacter le staff, appuie sur le bouton ",
   "tfooter": "incroyablement incroyable",
   "option1": "Problème bot",
   "option2": "Suggestion",
